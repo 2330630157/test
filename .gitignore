@@ -1,0 +1,10 @@
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+
+
+# max osx thumb
+.DS_Store
+.idea
